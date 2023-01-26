@@ -1,0 +1,26 @@
+body {
+    justify-content: center;
+}
+
+
+.img {
+    height: 150px;
+}
+
+table {
+    width: 80%;
+}
+
+th,
+td {
+    background-color: lightgrey;
+    width: 16%;
+}
+
+.contactsBox {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
